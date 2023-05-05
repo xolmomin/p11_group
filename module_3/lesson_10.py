@@ -93,6 +93,7 @@ git branch -M main
 git remote add origin https://github.com/xolmomin/p11_group.git
 git push -u origin main
 
+git branch
 
 '''
 
