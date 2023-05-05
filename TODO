@@ -1,0 +1,162 @@
+task
+limupa
+
+blog post
+
+product
+file:///Users/harry/Desktop/limupa-digital-products-store-ecommerce/shop-left-sidebar.html
+
+blog
+file:///Users/harry/Desktop/limupa-digital-products-store-ecommerce/blog-list-left-sidebar.html
+
+🪓
+product-list
+product-detail
+
+blog-list
+blog-detail
+
+1. bloglar ro'yhati chiqadigan, blog qo'shadigan page qilish
+
+2. product va product-category page larini qilish, product detail ham bolsin
+ - product list da rasmi, narxi, nomi boladi
+ - product detail da rasmi, narxi, nomi, description ni boladi
+
+3. file:///Users/harry/Desktop/limupa-digital-products-store-ecommerce/blog-details-left-sidebar.html#
+ - product category ni bosganda, o'shanga tegishli productlar chiqishi kk
+ - blog category ni bosganda (category listi chiqqanda, ichidagi bloglar soni ham chiqishi kk), o'shanga tegishli bloglar chiqishi kk
+
+4. blog va product uchun comment yozish (comment ni authori shartmas)
+
+5. projectni githubga yuklab linkini yuborish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+touch
+mkdir
+mkdir -p
+nano
+cat
+pwd
+rm -rf
+ls
+
+mv test new
+cp
+history
+cd
+
+sudo
+sudo su
+working directory
+
+
+
+docker
+postgres
+aiogram
+web scraping
+
+www.kz
+www.cn
+www.ru
+.com
+.org
+domain (olx.uz) [UZINFOCOM]
+
+IP 23.245.235.235
+MAC
+ssl
+
+127.0.0.1:5432
+localhost:5432
+10.10.2.67:6379
+10.10.2.67:22
+
+ifconfig
+
+65535
+
+conn = psycopg.connect(dbname="MY_DATABASE", user="MY_USERNAME", password="MY_PASSPHRASE", host="IP_ADDRESS", port="PORT" )
+
+10.10.2.67:8000
+host
+server 4
+hosting
+cache
+client
+
+port
+proxy
+
+telegram.org
+tlg.org
+
+vpn
+10.10.2.67
+63.32.65.65
+
+test.uz
+
+
+vpn
+proxy server
+
+
+
+python basic
+postgres
+django + postgres
+
+
+linux command (monitoring)
+
+docker container ls -n 4
+docker ps -n 4
+
+docker command
+docker ps
+docker container ls
+docker image ls
+docker volume ls
+
+dockerfile
+docker-compose
+
+frontend + backend + devops
+
+postgres
+
+
+image (test_image)
+container (test_container)
+volume (test_volume)
+
+
+examga kirish uchun
+postgres + aiogram + docker + docker hub
+docker run --name test_container -e TOKEN=86e52t376te23t632 botirjonning_boti
+
+

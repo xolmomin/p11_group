@@ -1,0 +1,197 @@
+[
+  {
+    "type": "social",
+    "data": [
+      {
+        "activity": "Write a handwritten letter to somebody",
+        "participants": 1,
+        "price": 0.1,
+        "link": "",
+        "key": "2277801",
+        "accessibility": 0.8
+      },
+      {
+        "activity": "Explore the nightlife of your city",
+        "participants": 1,
+        "price": 0.1,
+        "link": "",
+        "key": "2237769",
+        "accessibility": 0.32
+      },
+      {
+        "activity": "Visit your past teachers",
+        "participants": 1,
+        "price": 0,
+        "link": "",
+        "key": "8238918",
+        "accessibility": 0.7
+      },
+      {
+        "activity": "Write a note of appreciation to someone",
+        "participants": 1,
+        "price": 0,
+        "link": "",
+        "key": "1770521",
+        "accessibility": 0
+      },
+      {
+        "activity": "Play a volleyball match with some friends",
+        "participants": 4,
+        "price": 0,
+        "link": "",
+        "key": "4306710",
+        "accessibility": 0.3
+      }
+    ]
+  },
+  {
+    "type": "recreational",
+    "data": [
+      {
+        "activity": "Make your own LEGO creation",
+        "participants": 1,
+        "price": 0,
+        "link": "",
+        "key": "1129748",
+        "accessibility": 0.1
+      },
+      {
+        "activity": "Watch the sunset or the sunrise",
+        "participants": 1,
+        "price": 0,
+        "link": "",
+        "key": "4748214",
+        "accessibility": 1
+      },
+      {
+        "activity": "Binge watch a trending series",
+        "participants": 1,
+        "price": 0.2,
+        "link": "",
+        "key": "5881647",
+        "accessibility": 0.2
+      },
+      {
+        "activity": "Visit a nearby museum",
+        "participants": 1,
+        "price": 0.2,
+        "link": "",
+        "key": "5490351",
+        "accessibility": 0.7
+      },
+      {
+        "activity": "Draw something interesting",
+        "participants": 1,
+        "price": 0,
+        "link": "",
+        "key": "8033599",
+        "accessibility": 0
+      }
+    ]
+  },
+  {
+    "type": "busywork",
+    "data": [
+      {
+        "activity": "Organize your pantry",
+        "participants": 1,
+        "price": 0,
+        "link": "",
+        "key": "3954882",
+        "accessibility": 0
+      },
+      {
+        "activity": "Resolve a problem you've been putting off",
+        "participants": 1,
+        "price": 0,
+        "link": "",
+        "key": "9999999",
+        "accessibility": 0
+      },
+      {
+        "activity": "Organize your basement",
+        "participants": 1,
+        "price": 0,
+        "link": "",
+        "key": "8203595",
+        "accessibility": 0.9
+      }
+    ]
+  },
+  {
+    "type": "relaxation",
+    "data": [
+      {
+        "activity": "Go to a nail salon",
+        "participants": 1,
+        "price": 0.4,
+        "link": "",
+        "key": "7526324",
+        "accessibility": 0.5
+      },
+      {
+        "activity": "Teach your dog a new trick",
+        "participants": 1,
+        "price": 0.05,
+        "link": "",
+        "key": "1668223",
+        "accessibility": 0.15
+      },
+      {
+        "activity": "Color",
+        "participants": 1,
+        "price": 0.1,
+        "link": "",
+        "key": "5322987",
+        "accessibility": 0
+      },
+      {
+        "activity": "Watch a movie you'd never usually watch",
+        "participants": 1,
+        "price": 0.15,
+        "link": "",
+        "key": "9212950",
+        "accessibility": 0.15
+      }
+    ]
+  },
+  {
+    "type": "charity",
+    "data": [
+      {
+        "activity": "Donate blood at a local blood center",
+        "participants": 1,
+        "price": 0,
+        "link": "https://www.redcross.org/give-blood",
+        "key": "6509779",
+        "accessibility": 0.35
+      }
+    ]
+  },
+  {
+    "type": "education",
+    "data": [
+      {
+        "activity": "Learn GraphQL",
+        "participants": 1,
+        "price": 0,
+        "link": "https://graphql.org/",
+        "key": "2167064",
+        "accessibility": 0.8
+      }
+    ]
+  },
+  {
+    "type": "cooking",
+    "data": [
+      {
+        "activity": "Learn a new recipe",
+        "participants": 1,
+        "price": 0,
+        "link": "",
+        "key": "6553978",
+        "accessibility": 0.05
+      }
+    ]
+  }
+]

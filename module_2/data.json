@@ -1,0 +1,30 @@
+{
+  "json": [
+    "districts",
+    "comments",
+    "albums",
+    "task_regions",
+    "users",
+    "test",
+    "countries",
+    "data",
+    "undosh",
+    "regions",
+    "posts",
+    "products",
+    "todos",
+    "activities",
+    "task_posts"
+  ],
+  "py": [
+    "lesson_6",
+    "lesson_2",
+    "lesson_3",
+    "lesson_4",
+    "lesson_5",
+    "lesson_1"
+  ],
+  "csv": [
+    "djgfsada.districts"
+  ]
+}

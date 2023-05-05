@@ -1,0 +1,23 @@
+FROM python:3.11-alpine
+RUN mkdir /test3
+WORKDIR /test3
+COPY requirements.txt /test3/
+# docker build -t test1_image .
+# docker run -d --name test1_container -it test1_image
+
+# docker exec -it test1_container sh
+
+
+# linux commands
+# docker commands
+# Dockerfile
+# docker-compose
+
+# linux command
+# chmod, chown
+
+# Dockerfile - 1 host, 1 container
+# docker-compose - 1 host, n container
+# docker swarm - n host, n container
+
+

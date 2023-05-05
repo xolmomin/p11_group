@@ -1,0 +1,19 @@
+FROM python:3.11-alpine
+
+WORKDIR /apps
+COPY new_bot.py /apps
+
+CMD ["python3", "new_bot.py"]
+
+# docker build -f DockerfileForTest -t my_python_image .
+# docker tag my_python_image kholmumin/my_python_image:v1.0
+# docker push kholmumin/my_python_image:v1.0
+
+
+# docker run --name my_test_con -it kholmumin/my_python_image:v1.0
+# docker run --name my_python_container -it -d my_python_image
+# docker container logs -f my_python_container
+
+
+# 1. image olamiz, keyin run qilamiz
+# 2. ozimizni image mizni docker hub ga yuboramiz

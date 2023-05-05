@@ -1,0 +1,810 @@
+[
+  {
+    "id": 1,
+    "name": "Qoraqalpog'iston",
+    "districts": [
+      {
+        "id": 1,
+        "name": "Amudaryo tumani"
+      },
+      {
+        "id": 2,
+        "name": "Beruniy tumani"
+      },
+      {
+        "id": 3,
+        "name": "Chimboy tumani"
+      },
+      {
+        "id": 4,
+        "name": "Ellikqal'a tumani"
+      },
+      {
+        "id": 5,
+        "name": "Kegeyli tumani"
+      },
+      {
+        "id": 6,
+        "name": "Mo'ynoq tumani"
+      },
+      {
+        "id": 7,
+        "name": "Nukus tumani"
+      },
+      {
+        "id": 8,
+        "name": "Qanliko'l tumani"
+      },
+      {
+        "id": 9,
+        "name": "Qo'ng'irot tumani"
+      },
+      {
+        "id": 10,
+        "name": "Qorao'zak tumani"
+      },
+      {
+        "id": 11,
+        "name": "Shumanay tumani"
+      },
+      {
+        "id": 12,
+        "name": "Taxtako'pir tumani"
+      },
+      {
+        "id": 13,
+        "name": "To'rtko'l tumani"
+      },
+      {
+        "id": 14,
+        "name": "Xo'jayli tumani"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Xorazm",
+    "districts": [
+      {
+        "id": 15,
+        "name": "Bog'ot tumani"
+      },
+      {
+        "id": 16,
+        "name": "Gurlan tumani"
+      },
+      {
+        "id": 17,
+        "name": "Xonqa tumani"
+      },
+      {
+        "id": 18,
+        "name": "Hazorasp tumani"
+      },
+      {
+        "id": 19,
+        "name": "Xiva tumani"
+      },
+      {
+        "id": 20,
+        "name": "Qo'shko'pir tumani"
+      },
+      {
+        "id": 21,
+        "name": "Shovot tumani"
+      },
+      {
+        "id": 22,
+        "name": "Urganch tumani"
+      },
+      {
+        "id": 23,
+        "name": "Yangiariq tumani"
+      },
+      {
+        "id": 24,
+        "name": "Yangibozor tumani"
+      },
+      {
+        "id": 25,
+        "name": "Tuproqqal'a tumani"
+      },
+      {
+        "id": 181,
+        "name": "Xorazm shahar"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Navoiy",
+    "districts": [
+      {
+        "id": 26,
+        "name": "Konimex tumani"
+      },
+      {
+        "id": 27,
+        "name": "Karmana tumani"
+      },
+      {
+        "id": 28,
+        "name": "Qiziltepa tumani"
+      },
+      {
+        "id": 29,
+        "name": "Xatircha tumani"
+      },
+      {
+        "id": 30,
+        "name": "Navbahor tumani"
+      },
+      {
+        "id": 31,
+        "name": "Nurota tumani"
+      },
+      {
+        "id": 32,
+        "name": "Tomdi tumani"
+      },
+      {
+        "id": 33,
+        "name": "Uchquruq tumani"
+      },
+      {
+        "id": 180,
+        "name": "Navoiy  shahar"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Buxoro",
+    "districts": [
+      {
+        "id": 34,
+        "name": "Olot tumani"
+      },
+      {
+        "id": 35,
+        "name": "Buxoro tumani"
+      },
+      {
+        "id": 36,
+        "name": "G'ijduvon tumani"
+      },
+      {
+        "id": 37,
+        "name": "Jondor tumani"
+      },
+      {
+        "id": 38,
+        "name": "Kogon tumani"
+      },
+      {
+        "id": 39,
+        "name": "Qorako'l tumani"
+      },
+      {
+        "id": 40,
+        "name": "Qorovulbozor tumani"
+      },
+      {
+        "id": 41,
+        "name": "Peshku tumani"
+      },
+      {
+        "id": 42,
+        "name": "Pomitan tumani"
+      },
+      {
+        "id": 43,
+        "name": "Shofirkon tumani"
+      },
+      {
+        "id": 44,
+        "name": "Vobkent tumani"
+      },
+      {
+        "id": 179,
+        "name": "Buxoro shahar"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Samarqand",
+    "districts": [
+      {
+        "id": 45,
+        "name": "Bulung'ur tumani"
+      },
+      {
+        "id": 46,
+        "name": "Ishtixon tumani"
+      },
+      {
+        "id": 47,
+        "name": "Jomboy tumani"
+      },
+      {
+        "id": 48,
+        "name": "Kattaqo'rg'on tumani"
+      },
+      {
+        "id": 49,
+        "name": "Qo'shrabot tumani"
+      },
+      {
+        "id": 50,
+        "name": "Narpay tumani"
+      },
+      {
+        "id": 51,
+        "name": "Nurobot tumani"
+      },
+      {
+        "id": 52,
+        "name": "Oqdaryo tumani"
+      },
+      {
+        "id": 53,
+        "name": "Paxtachi tumani"
+      },
+      {
+        "id": 54,
+        "name": "Payariq tumani"
+      },
+      {
+        "id": 55,
+        "name": "Pastdarg'om tumani"
+      },
+      {
+        "id": 56,
+        "name": "Samarqand tumani"
+      },
+      {
+        "id": 57,
+        "name": "Toyloq tumani"
+      },
+      {
+        "id": 58,
+        "name": "Urgut tumani"
+      },
+      {
+        "id": 178,
+        "name": "Samarqand shahar"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Qashqadaryo",
+    "districts": [
+      {
+        "id": 59,
+        "name": "Chiroqchi tumani"
+      },
+      {
+        "id": 60,
+        "name": "Dehqonobod tumani"
+      },
+      {
+        "id": 61,
+        "name": "G'uzor tumani"
+      },
+      {
+        "id": 62,
+        "name": "Qamashi tumani"
+      },
+      {
+        "id": 63,
+        "name": "Qarshi tumani"
+      },
+      {
+        "id": 64,
+        "name": "Koson tumani"
+      },
+      {
+        "id": 65,
+        "name": "Kasbi tumani"
+      },
+      {
+        "id": 66,
+        "name": "Kitob tumani"
+      },
+      {
+        "id": 67,
+        "name": "Mirishkor tumani"
+      },
+      {
+        "id": 68,
+        "name": "Muborak tumani"
+      },
+      {
+        "id": 69,
+        "name": "Nishon tumani"
+      },
+      {
+        "id": 70,
+        "name": "Shahrisabz tumani"
+      },
+      {
+        "id": 71,
+        "name": "Yakkabog' tumani"
+      },
+      {
+        "id": 177,
+        "name": "Qashqadaryo shahar"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Surxondaryo",
+    "districts": [
+      {
+        "id": 72,
+        "name": "Angor tumani"
+      },
+      {
+        "id": 73,
+        "name": "Boysun tumani"
+      },
+      {
+        "id": 74,
+        "name": "Denov tumani"
+      },
+      {
+        "id": 75,
+        "name": "Jarqo'rg'on tumani"
+      },
+      {
+        "id": 76,
+        "name": "Qiziriq tumani"
+      },
+      {
+        "id": 77,
+        "name": "Qumqo'rg'on tumani"
+      },
+      {
+        "id": 78,
+        "name": "Muzrabot tumani"
+      },
+      {
+        "id": 79,
+        "name": "Oltinsoy tumani"
+      },
+      {
+        "id": 80,
+        "name": "Sariosiyo tumani"
+      },
+      {
+        "id": 81,
+        "name": "Sherobod tumani"
+      },
+      {
+        "id": 82,
+        "name": "Sho'rchi tumani"
+      },
+      {
+        "id": 83,
+        "name": "Termiz tumani"
+      },
+      {
+        "id": 84,
+        "name": "Uzun tumani"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Jizzax",
+    "districts": [
+      {
+        "id": 85,
+        "name": "Arnasoy tumani"
+      },
+      {
+        "id": 86,
+        "name": "Baxmal tumani"
+      },
+      {
+        "id": 87,
+        "name": "Do'stlik tumani"
+      },
+      {
+        "id": 88,
+        "name": "Forish tumani"
+      },
+      {
+        "id": 89,
+        "name": "G'allaorol tumani"
+      },
+      {
+        "id": 90,
+        "name": "Sharof Rashidov tumani"
+      },
+      {
+        "id": 91,
+        "name": "Mirzacho'l tumani"
+      },
+      {
+        "id": 92,
+        "name": "Paxtakor tumani"
+      },
+      {
+        "id": 93,
+        "name": "Yangiobod tumani"
+      },
+      {
+        "id": 94,
+        "name": "Zomin tumani"
+      },
+      {
+        "id": 95,
+        "name": "Zafarobod tumani"
+      },
+      {
+        "id": 96,
+        "name": "Zarbdor tumani"
+      },
+      {
+        "id": 175,
+        "name": "Jizzax shahar"
+      },
+      {
+        "id": 176,
+        "name": "Surxondaryo shahar"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Sirdaryo",
+    "districts": [
+      {
+        "id": 97,
+        "name": "Oqoltin tumani"
+      },
+      {
+        "id": 98,
+        "name": "Boyovut tumani"
+      },
+      {
+        "id": 99,
+        "name": "Guliston tumani"
+      },
+      {
+        "id": 100,
+        "name": "Xovos tumani"
+      },
+      {
+        "id": 101,
+        "name": "Mirzaobod tumani"
+      },
+      {
+        "id": 102,
+        "name": "Sayxunobod tumani"
+      },
+      {
+        "id": 103,
+        "name": "Sardoba tumani"
+      },
+      {
+        "id": 104,
+        "name": "Sirdaryo tumani"
+      },
+      {
+        "id": 174,
+        "name": "Sirdaryo shahar"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Toshkent viloyati",
+    "districts": [
+      {
+        "id": 105,
+        "name": "Bekobod tumani"
+      },
+      {
+        "id": 106,
+        "name": "Bo'tonliq tumani"
+      },
+      {
+        "id": 107,
+        "name": "Bo'ka tumani"
+      },
+      {
+        "id": 108,
+        "name": "Chinoz tumani"
+      },
+      {
+        "id": 109,
+        "name": "Qibray tumani"
+      },
+      {
+        "id": 110,
+        "name": "Ohangaron tumani"
+      },
+      {
+        "id": 111,
+        "name": "Oqqo'rg'on tumani"
+      },
+      {
+        "id": 112,
+        "name": "Parkent tumani"
+      },
+      {
+        "id": 113,
+        "name": "Piskent tumani"
+      },
+      {
+        "id": 114,
+        "name": "Quyi chirchiq tumani"
+      },
+      {
+        "id": 115,
+        "name": "O'rta chirchiq tumani"
+      },
+      {
+        "id": 116,
+        "name": "Yangiyo'l tumani"
+      },
+      {
+        "id": 117,
+        "name": "Yuqori chirchiq tumani"
+      },
+      {
+        "id": 118,
+        "name": "Zangiorta tumani"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Namangan",
+    "districts": [
+      {
+        "id": 119,
+        "name": "Chortoq tumani"
+      },
+      {
+        "id": 120,
+        "name": "Chust tumani"
+      },
+      {
+        "id": 121,
+        "name": "Kosonsoy tumani"
+      },
+      {
+        "id": 122,
+        "name": "Mingbuloq tumani"
+      },
+      {
+        "id": 123,
+        "name": "Namangan tumani"
+      },
+      {
+        "id": 124,
+        "name": "Norin tumani (Ozbekiston)"
+      },
+      {
+        "id": 125,
+        "name": "Pop tumani"
+      },
+      {
+        "id": 126,
+        "name": "To'raqo'rg'on tumani"
+      },
+      {
+        "id": 127,
+        "name": "Uchqo'rg'on tumani"
+      },
+      {
+        "id": 128,
+        "name": "Uychi tumani"
+      },
+      {
+        "id": 129,
+        "name": "Yangiqo'rg'on tumani"
+      },
+      {
+        "id": 173,
+        "name": "Namangan shahar"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Farg'ona",
+    "districts": [
+      {
+        "id": 130,
+        "name": "Oltiariq tumani"
+      },
+      {
+        "id": 131,
+        "name": "Bag'dod tumani"
+      },
+      {
+        "id": 132,
+        "name": "Beshariq tumani"
+      },
+      {
+        "id": 133,
+        "name": "Buvayda tumani"
+      },
+      {
+        "id": 134,
+        "name": "Dang'ara tumani"
+      },
+      {
+        "id": 135,
+        "name": "Farg'ona tumani"
+      },
+      {
+        "id": 136,
+        "name": "Furqat tumani"
+      },
+      {
+        "id": 137,
+        "name": "Qo'shtepa tumani"
+      },
+      {
+        "id": 138,
+        "name": "Quva tumani"
+      },
+      {
+        "id": 139,
+        "name": "Rishton tumani"
+      },
+      {
+        "id": 140,
+        "name": "So'x tumani"
+      },
+      {
+        "id": 141,
+        "name": "Toshloq tumani"
+      },
+      {
+        "id": 142,
+        "name": "Uchko'prik tumani"
+      },
+      {
+        "id": 143,
+        "name": "O'zbekiston tumani"
+      },
+      {
+        "id": 144,
+        "name": "Yozyovon tumani"
+      },
+      {
+        "id": 145,
+        "name": "Quvasoy tumani"
+      },
+      {
+        "id": 172,
+        "name": "Farg'ona shahar"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Andijon",
+    "districts": [
+      {
+        "id": 146,
+        "name": "Andijon tumani"
+      },
+      {
+        "id": 147,
+        "name": "Asaka tumani"
+      },
+      {
+        "id": 148,
+        "name": "Baliqchi tumani"
+      },
+      {
+        "id": 149,
+        "name": "Bo'z tumani"
+      },
+      {
+        "id": 150,
+        "name": "Buloqboshi tumani"
+      },
+      {
+        "id": 151,
+        "name": "Izboskan tumani"
+      },
+      {
+        "id": 152,
+        "name": "Jalaquduq tumani"
+      },
+      {
+        "id": 153,
+        "name": "Xo'laobod tumani"
+      },
+      {
+        "id": 154,
+        "name": "Qo'rg'ontepa tumani"
+      },
+      {
+        "id": 155,
+        "name": "Marhamat tumani"
+      },
+      {
+        "id": 156,
+        "name": "Oltinko'l tumani"
+      },
+      {
+        "id": 157,
+        "name": "Paxtaobod tumani"
+      },
+      {
+        "id": 158,
+        "name": "Shahrixon tumani"
+      },
+      {
+        "id": 159,
+        "name": "Ulug'nor tumani"
+      },
+      {
+        "id": 171,
+        "name": "Andijon shahar"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Toshkent shahar",
+    "districts": [
+      {
+        "id": 160,
+        "name": "Bektemir tumani"
+      },
+      {
+        "id": 161,
+        "name": "Chilonzor tumani"
+      },
+      {
+        "id": 162,
+        "name": "Hamza tumani"
+      },
+      {
+        "id": 163,
+        "name": "Mirobod tumani"
+      },
+      {
+        "id": 164,
+        "name": "Mirzi Ulug'bek tumani"
+      },
+      {
+        "id": 165,
+        "name": "Sergili tumani"
+      },
+      {
+        "id": 166,
+        "name": "Shayhontohur tumani"
+      },
+      {
+        "id": 167,
+        "name": "Olmazor tumani"
+      },
+      {
+        "id": 168,
+        "name": "Uchtepa tumani"
+      },
+      {
+        "id": 169,
+        "name": "Yakkasaroy tumani"
+      },
+      {
+        "id": 170,
+        "name": "Yunusobod tumani"
+      }
+    ]
+  }
+]

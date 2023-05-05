@@ -1,0 +1,86 @@
+[
+    {
+        "id": 28,
+        "title": 998901001010,
+        "description": "Автокара услуга аренда от 3 до 10тн\r\n\r\nВилочный погрузчики по Ташкенту и по Узбекистану аренда и услуга\r\n\r\nKara xizmati Toshkent Uzbekiston buyicha 3 tndan 10 tngacham\r\n\r\nСоат 17:00 дан кейн шу номер алокада 90 007 87 80",
+        "payment_type": "free",
+        "price": 150,
+        "is_negotiable": true,
+        "owner_type": "private",
+        "status": "new",
+        "phone": null,
+        "type": [
+            "waiting",
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "id": "hello world",
+        "title": "Автокара услуга аренда от 3 до 10тн",
+        "description": "Автокара услуга аренда от 3 до 10тн\r\n\r\nВилочный погрузчики по Ташкенту и по Узбекистану аренда и услуга\r\n\r\nKara xizmati Toshkent Uzbekiston buyicha 3 tndan 10 tngacham\r\n\r\nСоат 17:00 дан кейн шу номер алокада 90 007 87 80",
+        "payment_type": "free",
+        "price": 150,
+        "is_negotiable": true,
+        "owner_type": "private",
+        "status": "new",
+        "phone": null,
+        "type": "waiting"
+    },
+    {
+        "id": 30,
+        "title": "Автокара услуга аренда от 3 до 10тн",
+        "description": "Автокара услуга аренда от 3 до 10тн\r\n\r\nВилочный погрузчики по Ташкенту и по Узбекистану аренда и услуга\r\n\r\nKara xizmati Toshkent Uzbekiston buyicha 3 tndan 10 tngacham\r\n\r\nСоат 17:00 дан кейн шу номер алокада 90 007 87 80",
+        "payment_type": "free",
+        "price": 150,
+        "is_negotiable": true,
+        "owner_type": "private",
+        "status": "new",
+        "phone": null,
+        "type": [
+            "waiting",
+            "2342342"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Автокара услуга аренда от 3 до 10тн",
+        "description": "Автокара услуга аренда от 3 до 10тн\r\n\r\nВилочный погрузчики по Ташкенту и по Узбекистану аренда и услуга\r\n\r\nKara xizmati Toshkent Uzbekiston buyicha 3 tndan 10 tngacham\r\n\r\nСоат 17:00 дан кейн шу номер алокада 90 007 87 80",
+        "payment_type": "free",
+        "price": "150---100",
+        "is_negotiable": "true",
+        "owner_type": "private",
+        "status": {
+            "status_code": 123
+        },
+        "phone": null,
+        "type": "waiting"
+    },
+    {
+        "id": 32,
+        "title": "Автокара услуга аренда от 3 до 10тн",
+        "description": "Автокара услуга аренда от 3 до 10тн\r\n\r\nВилочный погрузчики по Ташкенту и по Узбекистану аренда и услуга\r\n\r\nKara xizmati Toshkent Uzbekiston buyicha 3 tndan 10 tngacham\r\n\r\nСоат 17:00 дан кейн шу номер алокада 90 007 87 80",
+        "payment_type": "free",
+        "price": 150,
+        "is_negotiable": "break",
+        "owner_type": "private",
+        "status": "new",
+        "phone": null,
+        "type": "waiting"
+    },
+    {
+        "id": 33,
+        "title": "Автокара услуга аренда от 3 до 10тн",
+        "description": "Автокара услуга аренда от 3 до 10тн\r\n\r\nВилочный погрузчики по Ташкенту и по Узбекистану аренда и услуга\r\n\r\nKara xizmati Toshkent Uzbekiston buyicha 3 tndan 10 tngacham\r\n\r\nСоат 17:00 дан кейн шу номер алокада 90 007 87 80",
+        "payment_type": "free",
+        "price": 150,
+        "is_negotiable": true,
+        "owner_type": "private",
+        "status": "new",
+        "phone": "null nomer bu",
+        "type": "waiting"
+    }
+]

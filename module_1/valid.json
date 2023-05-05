@@ -1,0 +1,50 @@
+[
+    {
+        "id": 4,
+        "title": "Автокара услуга аренда от 3 до 10тн",
+        "description": "Автокара услуга аренда от 3 до 10тн\r\n\r\nВилочный погрузчики по Ташкенту и по Узбекистану аренда и услуга\r\n\r\nKara xizmati Toshkent Uzbekiston buyicha 3 tndan 10 tngacham\r\n\r\nСоат 17:00 дан кейн шу номер алокада 90 007 87 80",
+        "payment_type": "free",
+        "price": 150,
+        "is_negotiable": true,
+        "owner_type": "private",
+        "status": "new",
+        "phone": null,
+        "type": "waiting"
+    },
+    {
+        "id": 5,
+        "title": "Автокара услуга аренда от 3 до 10тн",
+        "description": "Автокара услуга аренда от 3 до 10тн\r\n\r\nВилочный погрузчики по Ташкенту и по Узбекистану аренда и услуга\r\n\r\nKara xizmati Toshkent Uzbekiston buyicha 3 tndan 10 tngacham\r\n\r\nСоат 17:00 дан кейн шу номер алокада 90 007 87 80",
+        "payment_type": "free",
+        "price": 150,
+        "is_negotiable": true,
+        "owner_type": "private",
+        "status": "new",
+        "phone": null,
+        "type": "waiting"
+    },
+    {
+        "id": 6,
+        "title": "Автокара услуга аренда от 3 до 10тн",
+        "description": "Автокара услуга аренда от 3 до 10тн\r\n\r\nВилочный погрузчики по Ташкенту и по Узбекистану аренда и услуга\r\n\r\nKara xizmati Toshkent Uzbekiston buyicha 3 tndan 10 tngacham\r\n\r\nСоат 17:00 дан кейн шу номер алокада 90 007 87 80",
+        "payment_type": "free",
+        "price": 150,
+        "is_negotiable": true,
+        "owner_type": "private",
+        "status": "new",
+        "phone": 998901001010,
+        "type": "waiting"
+    },
+    {
+        "id": 7,
+        "title": "Автокара услуга аренда от 3 до 10тн",
+        "description": "Автокара услуга аренда от 3 до 10тн\r\n\r\nВилочный погрузчики по Ташкенту и по Узбекистану аренда и услуга\r\n\r\nKara xizmati Toshkent Uzbekiston buyicha 3 tndan 10 tngacham\r\n\r\nСоат 17:00 дан кейн шу номер алокада 90 007 87 80",
+        "payment_type": "free",
+        "price": 150,
+        "is_negotiable": true,
+        "owner_type": "private",
+        "status": "new",
+        "phone": 998901001010,
+        "type": "waiting"
+    }
+]
