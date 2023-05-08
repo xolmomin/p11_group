@@ -95,7 +95,25 @@ git push -u origin main
 
 git branch
 
-'''
 
+cd ~
+mkdir test_git
+cd test_git
+
+git clone
+
+git checkout -b new_branch
+
+git branch
+
+git branch -m old-branch new-branch
+
+// delete branch locally
+git branch -d localBranchName
+
+// delete branch remotely
+git push origin --delete remoteBranchName
+
+'''
 
 
