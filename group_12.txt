@@ -1,1 +1,11 @@
 xolmomin
+
+
+
+task1 ism
+task2 ism familya
+
+group10
+group20
+
+
