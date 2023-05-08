@@ -2,7 +2,7 @@ habibulloh nomer 1
 Oybek
 Tolibjon
 Alisher
-Dilshod
+Di  lshod
 valijon
 Miraziz
 Orolbek
@@ -10,3 +10,4 @@ mirsidiq
 xojinasim
 hacker
 Xojinasim Bobonazarov
+020202
