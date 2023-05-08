@@ -2,3 +2,4 @@ Jakhongir
 javlon
 nuraliy
 iborhim yunsobodksiiy
+javlon pip install
