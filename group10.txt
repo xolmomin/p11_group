@@ -9,4 +9,4 @@ Orolbek
 mirsidiq
 xojinasim
 hacker
-print("hello world")
+Xojinasim Bobonazarov
