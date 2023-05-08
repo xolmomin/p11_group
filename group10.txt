@@ -8,4 +8,5 @@ Miraziz
 Orolbek
 mirsidiq
 xojinasim
+hacker
 tolib
