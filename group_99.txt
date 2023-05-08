@@ -1,4 +1,8 @@
 Valijon
 Miraziz
 2437985682
+<<<<<<< HEAD
 Oybek
+=======
+tolibjon
+>>>>>>> origin/group10
