@@ -8,3 +8,4 @@ Miraziz
 Orolbek
 mirsidiq
 xojinasim
+tolib
