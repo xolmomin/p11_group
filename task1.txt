@@ -1,5 +1,2 @@
-HELLO TASHKENT
-nega ochirdila
-salom
 jahongir chekishni tashla
-pythonni bosingizlar
+tizza bo'lma
