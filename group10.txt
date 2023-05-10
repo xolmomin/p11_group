@@ -1,7 +1,6 @@
 Oybek
 Tolibjon
 Alisher
-habibulloh
 
 Dilshod
 valijon
@@ -14,3 +13,5 @@ hacker
 tolib
 tolib
 Xojinasim Bobonazarov
+hacker
+Xojinasim
