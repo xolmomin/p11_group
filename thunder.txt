@@ -7,4 +7,5 @@ thunder
 hello
 hello1
 salox
+print
 print('salom)'
