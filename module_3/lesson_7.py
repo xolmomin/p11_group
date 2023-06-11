@@ -4,7 +4,7 @@
 
 # 2
 # s = 51872653  # sort qilish kk,
-#
+# #
 # result = [
 #     (4, 2),
 #     (4, 8),
@@ -13,13 +13,7 @@
 # ]
 #
 # result.sort()
-# result = int(''.join(
-#     sorted(
-#         str(s),
-#         key=lambda i:
-#         (not int(i) & 1, int(i) if int(i) % 2 else -int(i))
-#     ))
-# )
+# result = int(''.join(sorted(str(s),key=lambda i:(not int(i) & 1, int(i) if int(i) % 2 else -int(i)))))
 # print(result)
 # 51872653
 # 13557862
