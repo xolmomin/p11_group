@@ -77,20 +77,20 @@ from turtle import down
 # print(summa)
 
 
-mat = [
-    [1, 1, 0, 0, 0],
-    [1, 1, 1, 1, 0],
-    [1, 0, 0, 0, 0],
-    [1, 1, 0, 0, 0],
-    [1, 1, 1, 1, 1]
-]
-
-k = 3
-s = map(lambda i: i[0], sorted(enumerate(map(sum, mat)), key=lambda i: i[1])[:k])
-print(list(s))
-
-s = sorted(range(len(mat)), key=lambda x: sum(mat[x]))[:k]
-print(s)
+# mat = [
+#     [1, 1, 0, 0, 0],
+#     [1, 1, 1, 1, 0],
+#     [1, 0, 0, 0, 0],
+#     [1, 1, 0, 0, 0],
+#     [1, 1, 1, 1, 1]
+# ]
+#
+# k = 3
+# s = map(lambda i: i[0], sorted(enumerate(map(sum, mat)), key=lambda i: i[1])[:k])
+# print(list(s))
+#
+# s = sorted(range(len(mat)), key=lambda x: sum(mat[x]))[:k]
+# print(s)
 
 
 # for i in range(len(matrix) - 1):
